@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bharathgoud10
+- 👋 Hello, I’m @bharathgoud10
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Dsa
 - 💞️ I’m looking to collaborate on ...
